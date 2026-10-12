@@ -4,5 +4,4 @@
 2. Clonar um repositório remoto para o nosso computador local; (X)
 3. Fazer Alterações >> Adicionar | Commit | Eviar arquivos; (X)
 4. Criar nova Branch e Merge; (X)
-5. Realizar um Pull Request; ()
-6. Criar primeiro Fork;()
+5. Realizar um Fork e Pull Request; (X)
